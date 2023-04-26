@@ -17,6 +17,7 @@ This is a contact book application that allows the user to add, view, update and
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Endpoints](#endpoints)
 
 
 ## Installation
